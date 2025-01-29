@@ -1,0 +1,6 @@
+import pandas as pd
+url = "https://fbref.com/en/comps/9/2023-2024/2023-2024-Premier-League-Stats"
+tables = pd.read_html(url)
+df = tables[0]
+df.to_csv("premier_league_2023_2024.csv", index=False)
+print("Saved")
