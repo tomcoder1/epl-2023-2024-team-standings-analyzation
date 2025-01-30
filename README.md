@@ -1,5 +1,5 @@
 # 2023 - 2024 EPL standings analyzation
-This is a mini project to put in what I've learned in my Intro to Programming classes.
+This is a mini project to apply what I've learned in my Intro to Programming classes.
 ## Table of Contents
 - [Features](#Features)
 - [What could have been done better](#What-could-have-been-done-better)
