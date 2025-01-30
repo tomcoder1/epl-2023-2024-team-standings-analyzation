@@ -11,7 +11,7 @@ team_colors = [
     "#1B458F",  # Crystal Palace (Blue)
     "#0057B8",  # Brighton (Blue)
     "#DA291C",  # Bournemouth (Red)
-    "#FFFFFF",  # Fulham (White)
+    "grey",  # Fulham (grey)
     "#FDB913",  # Wolves (Gold)
     "#003399",  # Everton (Blue)
     "#D50032",  # Brentford (Red)
