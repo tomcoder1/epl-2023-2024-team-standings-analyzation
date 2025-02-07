@@ -1,4 +1,4 @@
-# 2023 - 2024 EPL standings analyzation
+# 2023-2024 EPL standings analyzation
 This is a mini project to apply what I've learned in my Intro to Programming classes.
 ## Table of Contents
 - [Features](#Features)
